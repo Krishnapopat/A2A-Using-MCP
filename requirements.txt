@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+mcp-core 
+simple-salesforce
+fastapi
+uvicorn[standard]
+httpx

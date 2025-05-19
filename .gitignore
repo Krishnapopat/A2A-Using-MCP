@@ -1,0 +1,6 @@
+task.txt
+venv/
+__pycache__/
+.env
+legal_client.py
+finance_client.py
